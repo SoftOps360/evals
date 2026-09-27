@@ -1,0 +1,10 @@
+{"question": "nginx returning 502 bad gateway from upstream", "expected_runbook": "nginx-502-bad-gateway.md"}
+{"question": "disk full, no space left on device", "expected_runbook": "disk-full.md"}
+{"question": "pod OOMKilled exit code 137, restarts in a loop", "expected_runbook": "oom-killed.md"}
+{"question": "how do we roll back the payment service?", "expected_runbook": "rollback-payment-service.md"}
+{"question": "tls certificate expired, cert has expired error", "expected_runbook": "ssl-cert-expiry.md"}
+{"question": "database connection pool exhausted, too many connections", "expected_runbook": "db-connection-pool.md"}
+{"question": "connect() failed 111 connection refused while connecting to upstream", "expected_runbook": "nginx-502-bad-gateway.md"}
+{"question": "certbot renew then reload nginx to serve the new cert", "expected_runbook": "ssl-cert-expiry.md"}
+{"question": "my app keeps dying and restarting for no reason", "expected_runbook": "oom-killed.md"}
+{"question": "customers cannot pay since we shipped the new build", "expected_runbook": "rollback-payment-service.md"}
